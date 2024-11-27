@@ -1,2 +1,2 @@
 # project
-Project on chess board.
+Project on chess game.
